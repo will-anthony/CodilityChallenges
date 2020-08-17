@@ -1,5 +1,6 @@
 package com.company;
 
+import com.company.coility.challenges.counting_elements.MissingIntegerChallenge;
 import com.company.coility.challenges.time_complexity.TapeEquilibrium;
 
 public class Main {
@@ -26,7 +27,8 @@ public class Main {
 //        int test = FrogRiverOneChallenge.solution(5,new int[] {1,3,1,4,2,3,5,4});
 //        int test = FrogRiverOneChallenge.solution(7, new int[] {2,3,1,4,2,3,5,4,6,1,7,2,3});
 //        int test = PermMissingElementChallenge.solution(new int[] {2,3,1,5} );
-        int test = TapeEquilibrium.solution(new int[] {1000,-1000});
+//        int test = TapeEquilibrium.solution(new int[] {1000,-1000});
+        int test = MissingIntegerChallenge.solution(new int[] {-1,22,143,4});
         System.out.println(test);
 
     }

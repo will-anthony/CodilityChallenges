@@ -132,6 +132,9 @@ public class MaxCounterChallenge {
 //        return counters;
 //    }
 
+
+    // 77% performance
+
     public static int[] solution(int N, int[] A) {
         int[] counters = new int[N];
 
