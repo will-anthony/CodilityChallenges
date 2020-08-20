@@ -1,4 +1,4 @@
-package com.company.coility.challenges.prefix_sums;
+package com.company.codility.challenges.prefix_sums;
 
 public class PassingCarsChallenge {
 

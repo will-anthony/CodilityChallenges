@@ -1,8 +1,6 @@
 package com.company;
 
-import com.company.coility.challenges.counting_elements.MissingIntegerChallenge;
-import com.company.coility.challenges.prefix_sums.PassingCarsChallenge;
-import com.company.coility.challenges.time_complexity.TapeEquilibrium;
+import com.company.codility.challenges.prefix_sums.GeometricRangeTheoryChallenge;
 
 public class Main {
 
@@ -30,12 +28,21 @@ public class Main {
 //        int test = PermMissingElementChallenge.solution(new int[] {2,3,1,5} );
 //        int test = TapeEquilibrium.solution(new int[] {1000,-1000});
 //        int test = MissingIntegerChallenge.solution(new int[] {-1,22,143,4});
-        int test = PassingCarsChallenge.solution(new int[] {0,1,0,1,1});
-        System.out.println(test);
+//        int test = PassingCarsChallenge.solution(new int[] {0,1,0,1,1});
+//        int test = CountDivChallenge.solution(5, 11, 2);
+
+//
+        printIntArray(GeometricRangeTheoryChallenge.solution("CAGCCTA", new int[] {2,5,0},new int[] {4,5,6}));
+//        System.out.println(test);
 
     }
 
-    private static void printArray(int[] array) {
+    private static void printIntArray(int[] array) {
+        for(int i = 0; i < array.length; i ++) {
+            System.out.println(array[i]);
+        }
+    }
+    public static void printCharArray(char[] array) {
         for(int i = 0; i < array.length; i ++) {
             System.out.println(array[i]);
         }

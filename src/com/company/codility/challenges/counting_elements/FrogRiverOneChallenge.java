@@ -1,4 +1,4 @@
-package com.company.coility.challenges.counting_elements;
+package com.company.codility.challenges.counting_elements;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,6 +1,5 @@
-package com.company.coility.challenges.sorting;
+package com.company.codility.challenges.sorting;
 
-import com.company.coility.challenges.sorting.MaxProductOfThreeChallenge;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

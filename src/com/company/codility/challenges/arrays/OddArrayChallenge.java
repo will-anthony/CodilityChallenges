@@ -1,4 +1,4 @@
-package com.company.coility.challenges.arrays;
+package com.company.codility.challenges.arrays;
 
 import java.util.HashMap;
 import java.util.Iterator;

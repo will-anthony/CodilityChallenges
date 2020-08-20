@@ -1,4 +1,4 @@
-package com.company.coility.challenges.time_complexity;
+package com.company.codility.challenges.time_complexity;
 
 public class TapeEquilibrium {
 

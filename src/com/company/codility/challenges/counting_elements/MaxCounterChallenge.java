@@ -1,6 +1,4 @@
-package com.company.coility.challenges.counting_elements;
-
-import java.util.Arrays;
+package com.company.codility.challenges.counting_elements;
 
 public class MaxCounterChallenge {
 

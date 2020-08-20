@@ -1,6 +1,4 @@
-package com.company.coility.challenges.arrays;
-
-import org.junit.jupiter.api.Test;
+package com.company.codility.challenges.arrays;
 
 import java.util.ArrayList;
 import java.util.List;

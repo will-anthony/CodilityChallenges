@@ -1,4 +1,4 @@
-package com.company.coility.challenges.sorting;
+package com.company.codility.challenges.sorting;
 
 import java.util.Arrays;
 

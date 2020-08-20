@@ -1,6 +1,5 @@
-package com.company.coility.challenges.counting_elements;
+package com.company.codility.challenges.counting_elements;
 
-import com.company.coility.challenges.counting_elements.FrogRiverOneChallenge;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

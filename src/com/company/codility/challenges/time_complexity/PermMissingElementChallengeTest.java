@@ -1,6 +1,5 @@
-package com.company.coility.challenges.time_complexity;
+package com.company.codility.challenges.time_complexity;
 
-import com.company.coility.challenges.time_complexity.PermMissingElementChallenge;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,4 @@
-package com.company.coility.challenges.sorting;
+package com.company.codility.challenges.sorting;
 
 public class NumberOfDiscIntersectionsChallenge {
     //    We draw N discs on a plane. The discs are numbered from 0 to N − 1.

@@ -1,4 +1,4 @@
-package com.company.coility.challenges.iterations;
+package com.company.codility.challenges.iterations;
 
 import java.util.ArrayList;
 import java.util.List;

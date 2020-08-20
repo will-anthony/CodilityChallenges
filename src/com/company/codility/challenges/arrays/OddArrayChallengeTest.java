@@ -1,6 +1,4 @@
-package com.company.coility.challenges.arrays;
-
-import com.company.coility.challenges.arrays.OddArrayChallenge;
+package com.company.codility.challenges.arrays;
 
 import static org.junit.jupiter.api.Assertions.*;
 
